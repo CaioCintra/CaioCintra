@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently studying Computer Science at [Federal Technological University of Paraná!](http://www.utfpr.edu.br/campus/campomourao)
 
-- 🌱 I’m currently learning **NextJs and ReactJs**
+- 🌱 I’m currently learning **NextJs and Node**
 
 - 🔧 Developer at Tytotech
 
