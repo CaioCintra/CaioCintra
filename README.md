@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Caio Cintra</h1>
-<h3 align="center">Computer Science Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caiocintra&label=Profile%20views&color=0e75b6&style=flat" alt="caiocintra" /> </p>
 
-- 🔭 I’m currently studying Computer Science at [Federal Technological University of Paraná!](http://www.utfpr.edu.br/campus/campomourao)
+
+- 🔭 I’m Bachelor's degree in Computer Science at [Federal Technological University of Paraná!](http://www.utfpr.edu.br/campus/campomourao)
 
 - 🌱 I’m currently learning **NextJs and Node**
 
