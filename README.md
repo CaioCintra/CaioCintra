@@ -15,3 +15,8 @@
 <a href="https://github.com/CaioCintra">
 <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioCintra&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+
+<div style="display: inline_block"><br> 
+  <a href="https://www.linkedin.com/in/caio-j-cintra/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:caiocintra2000@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
