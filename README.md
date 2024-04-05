@@ -8,8 +8,6 @@
 
 - 🌱 I’m currently learning **NextJs and Node**
 
-- 🔧 Developer at Tytotech
-
 - 📫 My e-mail: caiocintra2000@gmail.com
 <div>
 <a href="https://github.com/CaioCintra">
