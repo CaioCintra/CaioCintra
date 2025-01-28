@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Caio Cintra</h1>
-<h3 align="center">Front-end and UX/UI</h3>
+<h3 align="center">Front-end Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caiocintra&label=Profile%20views&color=0e75b6&style=flat" alt="caiocintra" /> </p>
 
