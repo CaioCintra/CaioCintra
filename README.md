@@ -8,7 +8,6 @@
 
 - 🌱 I’m currently learning **NextJs and Node**
 
-- 📫 My e-mail: caiocintra2000@gmail.com
 <div>
 <a href="https://github.com/CaioCintra">
 <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioCintra&layout=compact&langs_count=7&theme=dracula"/>
